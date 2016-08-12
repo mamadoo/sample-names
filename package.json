@@ -1,0 +1,26 @@
+{
+  "name": "sample-names",
+  "version": "1.0.0",
+  "description": "Get a random sample names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamadoo/sample-names.git"
+  },
+  "keywords": [
+    "sample",
+    "random"
+  ],
+  "author": "Mohammad Esfandiari <m.esfandiary72@gmail.com> (http://farsial.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mamadoo/sample-names/issues"
+  },
+  "homepage": "https://github.com/mamadoo/sample-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
